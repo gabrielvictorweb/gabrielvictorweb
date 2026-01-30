@@ -34,6 +34,7 @@ I have worked in leadership and technical roles, contributing to products from c
 - Laravel
 - RESTful APIs
 - Payment & third-party integrations
+- Java (Spring Boot)
 
 ### Cloud & DevOps
 - AWS (EC2, S3, Cloud services)
