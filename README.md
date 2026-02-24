@@ -20,6 +20,7 @@ I have worked in leadership and technical roles, contributing to products from c
 
 ### Front-end
 - ReactJS
+- AngularJS
 - React Native
 - TypeScript
 - JavaScript
