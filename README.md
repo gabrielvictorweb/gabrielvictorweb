@@ -36,6 +36,7 @@ I have worked in leadership and technical roles, contributing to products from c
 - RESTful APIs
 - Payment & third-party integrations
 - Java (Spring Boot)
+- Python
 
 ### Cloud & DevOps
 - AWS (EC2, S3, Cloud services)
